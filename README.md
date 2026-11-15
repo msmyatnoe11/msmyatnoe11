@@ -9,8 +9,9 @@
 Earned: September 17, 2026 · Valid through: September 17, 2029 · [Verify on Credly](https://www.credly.com/go/8MkxEaMfjcsje2YYqlE5Vw)
 
 **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
-Earned: October 13, 2026 · Valid through: October 13, 2029 · [Verify on Credly](https://www.credly.com/go/3K84ESPdAAzXpk122qS0NQ)
+Earned: October 13, 2026 · Valid through: November 13, 2029 · [Verify on Credly](https://www.credly.com/go/3K84ESPdAAzXpk122qS0NQ)
 
-Currently preparing for the AWS Certified Solutions Architect – Associate (SAA) exam.
+**AWS Certified Solutions Architect – Associate** — Amazon Web Services (AWS)
+Earned: November 13, 2026 · Valid through: November 13, 2029 · [Verify with AWS](https://aws.amazon.com/verification)
 
 LinkedIn: https://www.linkedin.com/in/myat-noe-9b082836a/ · Portfolio: https://msmyatnoe11.github.io/
